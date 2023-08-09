@@ -1,0 +1,8 @@
+1. ADSC 1115
+2. Audio Sensor
+3. Battery 4.8v
+4. BuzzerCamer Module
+5. Jumper Wires
+6. LED Bulbs
+7. PIR Sensor
+8. Water Level Sensor
